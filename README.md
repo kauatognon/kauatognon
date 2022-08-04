@@ -1,8 +1,7 @@
 # Sobre Mim
 
 - 👋 Olá, meu nome é @kauatognon
-- 👀  Me interesso por ...
-- 🌱 Atualmente estou aprendendo ...
+- 🌱 Atualmente estou aprendendo programação de jogos
 - 📫 Você me encontra no instagram: @tognon_kaua
 
 <!---
